@@ -32,6 +32,10 @@ As shown, the **RBF kernel** achieves higher **recall**, making it more suitable
 
 ![Performance Comparison](./performance.png)
 
+## Heat Map
+
+![Performance Comparison](./)
+
 ## 🧠 Decision Boundaries
 
 Visual comparison of the decision boundaries shows that the RBF kernel is more flexible and adapts better to the data distribution.
