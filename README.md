@@ -34,7 +34,7 @@ As shown, the **RBF kernel** achieves higher **recall**, making it more suitable
 
 ## Heat Map
 
-![Performance Comparison](./)
+![Performance Comparison](./correlation.jpg)
 
 ## 🧠 Decision Boundaries
 
