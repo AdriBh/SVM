@@ -42,9 +42,11 @@ Here I have taken those features X and Y which has high correlation.
 
 
 **RBF Kernel (PCA 2 components):**
+
 ![RBF Decision Boundary](./rbf.png)
 
 **Linear Kernel (PCA 2 components):**
+
 ![Linear Decision Boundary](./linear.png)
 
 ## 📈 Learning Curves
